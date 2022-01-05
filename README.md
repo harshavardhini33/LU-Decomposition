@@ -39,7 +39,8 @@ print(U)
 ```
 
 ## Output:
-![lu decomposition](lurec.png)
+![lurec](https://user-images.githubusercontent.com/93427208/148152423-2620fde2-70c2-43ba-8cdf-82eee2629c15.png)
+
 
 
 ## Result:
